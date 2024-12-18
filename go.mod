@@ -1,4 +1,4 @@
-module go-web
+module github.com/gfffrtt/go-web
 
 go 1.23.3
 
